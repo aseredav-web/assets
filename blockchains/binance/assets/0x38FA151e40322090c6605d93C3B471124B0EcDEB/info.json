@@ -1,0 +1,11 @@
+{
+    "name": "ARTAI Protocol",
+    "website": "https://sites.google.com/view/artaipro",
+    "description": "ARTAI is a Web3 AI Protocol leveraging Proof-of-Creativity (PoC) consensus to incentivize high-quality AI-generated art and content creation.",
+    "explorer": "https://bscscan.com/token/0x38FA151e40322090c6605d93C3B471124B0EcDEB",
+    "type": "BEP20",
+    "symbol": "ARTAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x38FA151e40322090c6605d93C3B471124B0EcDEB"
+}
